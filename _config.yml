@@ -244,7 +244,7 @@ links:
     # CUSTOM LINK
   - Name: Mastodon
     URL: https://sueden.social/@jhkmnl
-    Icon-Class: fas fa-mastodon
+    Icon-Class: fa-brands fa-mastodon
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
