@@ -227,11 +227,11 @@ links:
   #  Text_Color: '#000000'
 
      # TUMBLR
-   - Name: Tumblr
-     URL: https://www.tumblr.com
-     Username: jhkmnl
-     Color: '#35465c'
-     Icon-Class: fab fa-tumblr
+  - Name: Tumblr
+    URL: https://www.tumblr.com
+    Username: jhkmnl
+    Color: '#35465c'
+    Icon-Class: fab fa-tumblr
 
   # BUY ME A COFFEE
   #- Name: BuyMeACoffee
