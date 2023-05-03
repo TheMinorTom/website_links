@@ -27,6 +27,7 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
+
     # TUMBLR
   - Name: Tumblr
     URL: https://www.tumblr.com
@@ -40,6 +41,18 @@ links:
     Username: theminortom
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
+
+    # PRONOUNS:PAGE
+  - Name: pronouns.page (EN)
+    URL: https://en.pronouns.page/@jhkmnl
+    Icon-Class: fa-solid fa-table-columns
+    Color: '#c19d0c'
+    
+    # PRONOUNS:PAGE
+  - Name: pronouns.page (DE)
+    URL: https://de.pronouns.page/@jhkmnl
+    Icon-Class: fa-solid fa-table-columns
+    Color: '#a9890b'
 
     # EMAIL
   - Name: Email
