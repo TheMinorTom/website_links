@@ -2,7 +2,7 @@
 name: jhkmnl
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: cs • likes books • sf/f • urbanist • leftish ~ queer🏳️‍🌈 • nd • sometimes 🐾 ~ he/him<br>⚠️ content not suitable for all audiences ⚠️
+tagline: cs • sf/f • urbanist • leftish ~ queer🏳️‍🌈 • nd • sometimes 🐾 • 18+ ~ he/him<br>📍Munich, 🇩🇪<br>⚠️ content not suitable for all audiences ⚠️
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://tree.jhkmnl.fi/assets/images/profilepic2.png
@@ -27,6 +27,12 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
+    # BSKY
+  - Name: Bluesky
+    URL: https://bsky.app/profile/jhkmnl.bsky.social
+    Icon-Class: fas fa-cloud
+    Color: '#048cfc'
+    Text_Color: '#ffffff'
 
     # TUMBLR
   - Name: Tumblr
