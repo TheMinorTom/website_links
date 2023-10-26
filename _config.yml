@@ -70,12 +70,12 @@ links:
     Icon-Class: fab fa-telegram-plane
 
     # DISCORD
-   - Name: Discord @jhkmnl
-     URL: 'https://discordapp.com/users/'
-     Username: 141263252393951232
-     Icon-Class: fab fa-discord
-     Color: '#5865F2'
-     Text_Color: '#ffffff'
+  - Name: Discord @jhkmnl
+    URL: 'https://discordapp.com/users/'
+    Username: 141263252393951232
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
 
     # PRONOUNS:PAGE
   - Name: pronouns.page (EN)
